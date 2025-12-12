@@ -40,5 +40,7 @@ This experiment was more based on conceptual learning and visualization, and not
     - L02_and_J02_Okyere_Jeremy_ITAI1378.ipynb
 - Run in Google Colab or any local environment with Python 3.8+
 - Install required libraries if running locally:
+```bash
     - pip install numpy matplotlib opencv-python pillow
+```
 - Execute the cells in order to reproduce the visualizations and transformations.

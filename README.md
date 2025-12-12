@@ -35,7 +35,7 @@ Project folders from this course are included in this repository with dedicated 
 
 * Project 1 – Image Processing Fundamentals
 
-* Project 2 – 
+* Project 2 – Image Classification with CNN
 
 * Project 3 – Image Classification with SVM
 

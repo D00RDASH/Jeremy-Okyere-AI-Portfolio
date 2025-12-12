@@ -17,25 +17,27 @@ I am committed to learning how smart systems operate and how they can be impleme
 * Visualization (Matplotlib, Seaborn)
 * Google Colab
 
-## DeepLearning-ITAI2376
+## ComputerVision-ITAI2376
 
-This course introduces foundational machine learning and deep learning concepts, including:
+This course introduces core computer vision concepts and practical techniques for analyzing and understanding visual data, including:
 
-- Working with datasets and preprocessing
-- Building initial machine learning models
-- Understanding neural network basics
-- Developing practical intuition for training, evaluating, and improving models
-- Running experiments in Python/Colab
+- Working with images and video data
+- Image preprocessing and augmentation
+- Feature extraction and classical vision methods
+- Building and training deep learning models for vision tasks
+- Tasks such as image classification, object detection, and segmentation
+- Evaluating and improving vision models
+- Running experiments in Python/Colab using libraries like OpenCV, NumPy, and PyTorch/TensorFlow
 
 Project folders from this course are included in this repository with dedicated documentation.
 
 ## Projects
 
-* Project 1 – 
+* Project 1 – Image Processing Fundamentals
 
 * Project 2 – 
 
-* Project 3 – 
+* Project 3 – Image Classification with SVM
 
 Each project will include:
 

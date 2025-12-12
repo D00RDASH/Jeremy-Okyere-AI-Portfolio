@@ -1,56 +1,74 @@
-# Jeremy-Okyere-AI-Portfolio
+# **Jeremy Okyere – AI Portfolio**
 
-I am in the process of learning the principles of machine learning and focusing on the practical development of models, understanding of data, and the concepts of neural networks. I intend to establish a solid background in AI and expand to more sophisticated applications with the help of formal education and practical experimentation.
+Welcome to my AI and Machine Learning portfolio. This repository documents my learning journey as I explore the fundamentals of machine learning, computer vision, and neural networks. My goal is to build a strong technical foundation through structured coursework and hands-on experimentation.
 
-## About Me
+---
 
-I am committed to learning how smart systems operate and how they can be implemented to address real-life challenges. The aspects of my learning process include creating practicable skills, enhancing my problem-solving skills, and developing my intuition of machine learning workflows.
+## **About Me**
 
-## Skills
-* Basic Python Knowledge
-* Patience
-* Perseverance
-* Jupyter Notebooks
-* Data Preprocessing
-* Neural Network Fundamentals
-* Model Training & Evaluation Basics
-* Visualization (Matplotlib, Seaborn)
-* Google Colab
+I am passionate about understanding how intelligent systems work and how they can be applied to real-world challenges. My focus is on developing practical skills, strengthening problem-solving abilities, and building intuition for machine learning workflows.
 
-## ComputerVision-ITAI2376
+---
 
-This course introduces core computer vision concepts and practical techniques for analyzing and understanding visual data, including:
+## **Skills**
 
-- Working with images and video data
-- Image preprocessing and augmentation
-- Feature extraction and classical vision methods
-- Building and training deep learning models for vision tasks
-- Tasks such as image classification, object detection, and segmentation
-- Evaluating and improving vision models
-- Running experiments in Python/Colab using libraries like OpenCV, NumPy, and PyTorch/TensorFlow
+- Basic Python Knowledge  
+- Patience & Perseverance  
+- Jupyter Notebooks  
+- Data Preprocessing  
+- Neural Network Fundamentals  
+- Model Training & Evaluation  
+- Visualization (Matplotlib, Seaborn)  
+- Google Colab  
+- Introduction to Computer Vision Concepts  
 
-Project folders from this course are included in this repository with dedicated documentation.
+---
 
-## Projects
+## **Course: ComputerVision-ITAI2376**
 
-* Project 1 – Image Processing Fundamentals
+This course introduces the foundations of computer vision and the techniques used to analyze and interpret visual data.
 
-* Project 2 – Image Classification with CNN
+Topics covered include:
 
-* Project 3 – Image Classification with SVM
+- Working with image and video data  
+- Image preprocessing and augmentation  
+- Classical feature extraction techniques  
+- Building deep learning models for image classification  
+- Object detection & segmentation fundamentals  
+- Evaluating and improving visual models  
+- Experiments using OpenCV, NumPy, PyTorch/TensorFlow  
 
-Each project will include:
+Project folders from this course are included in this repository, each with its own documentation.
 
-* Problem Statement
-* Approach
-* Results & Metrics
-* Key Findings
-* Technologies Used
-* How to Run
+---
 
-## Professional Contact Information
+## **Projects**
 
-* Name: Jeremy Okyere
-* Email: htwdit@gmail.com
-* Phone: 281-210-4719
-* LinkedIn: https://www.linkedin.com/in/jeremy-okyere
+### **Project 1 – Image Processing Fundamentals**  
+Understanding how computers interpret images numerically and applying basic transformations.
+
+### **Project 2 – Image Classification with CNN**  
+Building a convolutional neural network to classify image data.
+
+### **Project 3 – Image Classification with SVM**  
+Using a Support Vector Machine to classify images into multiple categories.
+
+Each project includes:
+
+- Problem Statement  
+- Approach  
+- Results & Metrics  
+- Key Findings  
+- Technologies Used  
+- How to Run  
+
+---
+
+## **Professional Contact Information**
+
+**Name:** Jeremy Okyere  
+**Email:** htwdit@gmail.com  
+**Phone:** 281-210-4719  
+**LinkedIn:** https://www.linkedin.com/in/jeremy-okyere
+
+---

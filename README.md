@@ -24,7 +24,7 @@ I am passionate about understanding how intelligent systems work and how they ca
 
 ---
 
-## **Course: ComputerVision-ITAI2376**
+## **Course: ComputerVision-ITAI1378**
 
 This course introduces the foundations of computer vision and the techniques used to analyze and interpret visual data.
 
